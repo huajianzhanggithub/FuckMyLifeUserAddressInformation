@@ -1,0 +1,446 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+
+是凉岐哥哥呐的个人空间 - 糗事百科
+
+</title>
+<meta name="applicable-device"content="mobile">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta http-equiv="Cache-Control" content="no-transform" />
+
+<link rel="canonical" href="//www.qiushibaike.com/users/41158942/"/>
+
+
+<meta name="description" content="
+
+是凉岐哥哥呐在糗事百科的个人空间，记录是凉岐哥哥呐在糗百分享的糗事笑话，包括超搞笑的笑话大全、幽默恶搞笑死人不偿命的人生经历，还有是凉岐哥哥呐关注的糗友和粉丝。
+
+"/>
+
+<link rel="stylesheet" href="//static.qiushibaike.com/css/dist/touch/app.min.css?v=b22e64131f59a4dacc581a6f59971ac4"/>
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?743362d4b71e22775786fbc54283175c";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+// 收集运营上缓存证据
+window.config = {
+'user_time': '2019-05-30 15:55:18',
+'version': '2017-09-04 14:36',
+'bj': 'False',
+}
+</script>
+<!-- <script type="text/javascript" name="baidu-tc-cerfication" src="//apps.bdimg.com/cloudaapi/lightapp.js#bc606fbc90c899d91dc39694f2aa4020"></script>
+<script type="text/javascript">window.bd && bd._qdc && bd._qdc.init({app_id: '133e663fdf9475c61456a884'});</script> -->
+</head>
+<body class="body_night">
+
+ 
+<header>
+<div id="suspension" class="hide">
+<img src="//static.qiushibaike.com/images/touch_v3/yuedu/suspension3@3x.png?v=bf588f5e6fadc9694ca47a725fd1664b" alt="">
+</div>
+<div id="logoBar">
+<div class="logo">
+<a href="/" onclick="_hmt.push(['_trackEvent', 'qiushi_logo', 'chick']);"></a>
+</div>
+<div class="float-nav">
+<!--<a href="/gif/6.html" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'qiushi_top_button_01', 'chick']);">邪恶Gif</a>-->
+<a href="/media/" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'qiushi_top_button_02', 'chick']);">视频</a>
+<a href="/news/" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'qiushi_top_button_03', 'chick']);">排行榜</a>
+</div>
+</div>
+<nav class="top-bar clearfix">
+<a href="https://www.qiushibaike.com/"  onclick="_hmt.push(['_trackEvent', '0qiushi_menu_qiushi', 'chick']);">
+糗事
+</a>
+<a href="https://www.qiushibaike.com/hot_v3/"  onclick="_hmt.push(['_trackEvent', '0qiushi_menu_24xiaoshi', 'chick']);">
+24小时
+</a>
+<a href="https://www.qiushibaike.com/imgrank/"  onclick="_hmt.push(['_trackEvent', '0qiushi_menu_retu', 'chick']);">
+热图
+</a>
+<a href="https://www.qiushibaike.com/text/"  onclick="_hmt.push(['_trackEvent', '0qiushi_menu_chunwen', 'chick']);">
+纯文
+</a>
+<a href="https://www.qiushibaike.com/history/"  class="endline" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_chuanyue', 'chick']);">
+穿越
+</a>
+<a href="https://www.qiushibaike.com/gif/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_gif', 'chick']); ">GIF</a>
+<!--<a href="https://www.qiushibaike.com/gif/6.html" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_meinvtu', 'chick']); ">美女图</a>-->
+<!--<a href="https://www.qiushibaike.com/gif/6.html" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_xiee', 'chick']); ">邪恶</a>-->
+<a href="https://www.qiushibaike.com/news/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_remen', 'chick']); ">热门</a>
+<a href="https://www.qiushibaike.com/gif/1.html" ref="nofollow" class="endline" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_gaoxiao', 'chick']); ">搞笑</a>
+<a href="/img/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_tupian', 'chick']); ">图片</a>
+<!--<a href="/img/0.html" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_xiezhenji', 'chick']); ">写真集</a>-->
+<a href="https://www.qiushibaike.com/media/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_shipin', 'chick']); ">视频</a>
+<a href="https://www.qiushibaike.com/media/60000/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_meinv', 'chick']); ">美女</a>
+<a href="https://www.qiushibaike.com/media/30000/" ref="nofollow" class="endline" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_egao', 'chick']); ">恶搞</a>
+<!-- <a href="//www.qiushibaike.com/media/60000/" ref="nofollow" class="endline" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_fuli', 'chick']); ">福利</a> -->
+</nav>
+<!-- <img src="//static.qiushibaike.com/images/touch_v3/banner.png?v=cf819dc6056000bab0e7e3bffd915f90" alt="" class="banner" style="width: 100%; border-bottom: 10px solid #F7F7F7"> -->
+</header>
+
+
+
+
+<div class='user-header'>
+<a href="/users/41158942/" class='user-header-avatar'>
+<img src="//pic.qiushibaike.com/system/avtnew/4115/41158942/medium/20190403182402.jpg" alt="是凉岐哥哥呐">
+</a>
+<div class='user-header-name'>
+<h1>是凉岐哥哥呐</h1>
+</div>
+<ul class='user-header-nav'>
+<li class='user-header-nav-item'>
+<a href="/users/41158942/" class="active">主页</a>
+</li>
+
+<li class='user-header-nav-item'>
+<a href="/users/41158942/articles/" >糗事</a>
+</li>
+
+
+<li class='user-header-nav-item'>
+<a href="/users/41158942/comments/" >评论</a>
+</li>
+
+
+<li class='user-header-nav-item'>
+<a href="/users/41158942/followers/" >好友</a>
+</li>
+
+
+
+</ul>
+</div>
+
+
+
+<!--未登录-->
+
+<div class='user-data'>
+<div class='user-data-block'>
+<h3 class='user-data-block-header'>糗百指数</h3>
+<ul class='user-data-block-list'>
+<li class='user-data-block-list-item'>
+<span class='left'>粉丝</span>
+<span class='right'>3</span>
+</li>
+<li class='user-data-block-list-item'>
+<span class='left'>关注</span>
+<span class='right'>3</span>
+</li>
+<li class='user-data-block-list-item'>
+<span class='left'>糗事</span>
+<span class='right'>19</span>
+</li>
+<li class='user-data-block-list-item'>
+<span class='left'>评论</span>
+<span class='right'>82</span>
+</li>
+<li class='user-data-block-list-item'>
+<span class='left'>笑脸</span>
+<span class='right'>8118</span>
+</li>
+</ul>
+</div>
+<div class='user-data-block'>
+<h3 class='user-data-block-header'>个人资料</h3>
+<ul class='user-data-block-list'>
+<li class='user-data-block-list-item'>
+<span class='left'>婚姻</span>
+<span class='right'>single</span>
+</li>
+<li class='user-data-block-list-item'>
+<span class='left'>星座</span>
+<span class='right'>白羊座</span>
+</li>
+<li class='user-data-block-list-item'>
+<span class='left'>故乡</span>
+<span class='right'>贵州 · 贵阳</span>
+</li>
+<li class='user-data-block-list-item'>
+<span class='left'>职业</span>
+<span class='right'>公务猿</span>
+</li>
+<li class='user-data-block-list-item'>
+<span class='left'>糗龄</span>
+<span class='right'>57天</span>
+</li>
+</ul>
+</div>
+</div>
+<ul class='user-list'>
+
+
+
+<li class='user-block user-block-border'>
+<div class='user-block-header'>
+<h3 class='comment'>
+<span class='date'>05&#47;30</span>
+<strong class='name'>是凉岐哥哥呐</strong>
+<span class='text'>评论了</span>
+
+
+<a href="/users/41158942/" >
+<strong class='name'>是凉岐哥哥呐</strong>
+</a>
+
+
+</h3>
+</div>
+<ul class='user-comment-block'>
+<li class='user-comment-block-comment'>你瞎说的实话让我感觉有点难受。[doge][doge]</li>
+<li class='user-comment-block-article user-comment-block-article-index'>
+<div class='article-head'>
+<div class='article-header-avatar'>
+<img src="//pic.qiushibaike.com/system/avtnew/4115/41158942/thumb/20190403182402.jpg" alt="是凉岐哥哥呐">
+</div>
+
+<a href="/users/41158942/" class='article-header-name'>是凉岐哥哥呐</a>
+
+</div>
+<ul class='article-main'>
+<li class='article-main-right'>
+<a href="/article/121864984" class='article-main-right-text'>
+给女孩子的一个建议,女孩子一定要主动,如果你是一味的等着男孩子来找你，那你等来的大部分是渣男,因为像我们这种正派的男孩子根本不懂得泡妞。
+</a>
+</li>
+
+</ul>
+<div class='article-main-right-foot'>
+2164 好笑 &sdot;
+87 评论 &sdot;
+<a href="/history/552a14e1eb02c18bc86bbf1663f971ba/" >
+2019-05-30
+</a>
+</div>
+</li>
+</ul>
+</li>
+
+
+
+
+
+<li class='user-block user-block-border'>
+<div class='user-block-header'>
+<h3 class='comment'>
+<span class='date'>05&#47;30</span>
+<strong class='name'>是凉岐哥哥呐</strong>
+<span class='text'>评论了</span>
+
+
+<a href="/users/41158942/" >
+<strong class='name'>是凉岐哥哥呐</strong>
+</a>
+
+
+</h3>
+</div>
+<ul class='user-comment-block'>
+<li class='user-comment-block-comment'>嗯……这是一个很好的建议……如果我没有被放几次鸽子的话，我就信你了。</li>
+<li class='user-comment-block-article user-comment-block-article-index'>
+<div class='article-head'>
+<div class='article-header-avatar'>
+<img src="//pic.qiushibaike.com/system/avtnew/4115/41158942/thumb/20190403182402.jpg" alt="是凉岐哥哥呐">
+</div>
+
+<a href="/users/41158942/" class='article-header-name'>是凉岐哥哥呐</a>
+
+</div>
+<ul class='article-main'>
+<li class='article-main-right'>
+<a href="/article/121864984" class='article-main-right-text'>
+给女孩子的一个建议,女孩子一定要主动,如果你是一味的等着男孩子来找你，那你等来的大部分是渣男,因为像我们这种正派的男孩子根本不懂得泡妞。
+</a>
+</li>
+
+</ul>
+<div class='article-main-right-foot'>
+2164 好笑 &sdot;
+87 评论 &sdot;
+<a href="/history/552a14e1eb02c18bc86bbf1663f971ba/" >
+2019-05-30
+</a>
+</div>
+</li>
+</ul>
+</li>
+
+
+
+
+
+<li class='user-block user-block-border'>
+<div class='user-block-header'>
+<h3 class='comment'>
+<span class='date'>05&#47;30</span>
+<strong class='name'>是凉岐哥哥呐</strong>
+<span class='text'>评论了</span>
+
+
+<a href="/users/41158942/" >
+<strong class='name'>是凉岐哥哥呐</strong>
+</a>
+
+
+</h3>
+</div>
+<ul class='user-comment-block'>
+<li class='user-comment-block-comment'>请叫我孤狼！</li>
+<li class='user-comment-block-article user-comment-block-article-index'>
+<div class='article-head'>
+<div class='article-header-avatar'>
+<img src="//pic.qiushibaike.com/system/avtnew/4115/41158942/thumb/20190403182402.jpg" alt="是凉岐哥哥呐">
+</div>
+
+<a href="/users/41158942/" class='article-header-name'>是凉岐哥哥呐</a>
+
+</div>
+<ul class='article-main'>
+<li class='article-main-right'>
+<a href="/article/121864984" class='article-main-right-text'>
+给女孩子的一个建议,女孩子一定要主动,如果你是一味的等着男孩子来找你，那你等来的大部分是渣男,因为像我们这种正派的男孩子根本不懂得泡妞。
+</a>
+</li>
+
+</ul>
+<div class='article-main-right-foot'>
+2164 好笑 &sdot;
+87 评论 &sdot;
+<a href="/history/552a14e1eb02c18bc86bbf1663f971ba/" >
+2019-05-30
+</a>
+</div>
+</li>
+</ul>
+</li>
+
+
+
+
+
+<li class='user-block user-block-border'>
+<div class='user-block-header'>
+<h3 class='comment'>
+<span class='date'>05&#47;30</span>
+<strong class='name'>是凉岐哥哥呐</strong>
+<span class='text'>评论了</span>
+
+
+<a href="/users/41158942/" >
+<strong class='name'>是凉岐哥哥呐</strong>
+</a>
+
+
+</h3>
+</div>
+<ul class='user-comment-block'>
+<li class='user-comment-block-comment'>滚蛋，我不想和你说话！都找到老婆了还来扯犊子[哀怨]</li>
+<li class='user-comment-block-article user-comment-block-article-index'>
+<div class='article-head'>
+<div class='article-header-avatar'>
+<img src="//pic.qiushibaike.com/system/avtnew/4115/41158942/thumb/20190403182402.jpg" alt="是凉岐哥哥呐">
+</div>
+
+<a href="/users/41158942/" class='article-header-name'>是凉岐哥哥呐</a>
+
+</div>
+<ul class='article-main'>
+<li class='article-main-right'>
+<a href="/article/121864984" class='article-main-right-text'>
+给女孩子的一个建议,女孩子一定要主动,如果你是一味的等着男孩子来找你，那你等来的大部分是渣男,因为像我们这种正派的男孩子根本不懂得泡妞。
+</a>
+</li>
+
+</ul>
+<div class='article-main-right-foot'>
+2164 好笑 &sdot;
+87 评论 &sdot;
+<a href="/history/552a14e1eb02c18bc86bbf1663f971ba/" >
+2019-05-30
+</a>
+</div>
+</li>
+</ul>
+</li>
+
+
+
+
+
+<li class='user-block user-block-border'>
+<div class='user-block-header'>
+<h3 class='comment'>
+<span class='date'>05&#47;30</span>
+<strong class='name'>是凉岐哥哥呐</strong>
+<span class='text'>评论了</span>
+
+
+<a href="/users/41158942/" >
+<strong class='name'>是凉岐哥哥呐</strong>
+</a>
+
+
+</h3>
+</div>
+<ul class='user-comment-block'>
+<li class='user-comment-block-comment'>反过来应该是会撩汉的都是……啊呸！我可没说过！</li>
+<li class='user-comment-block-article user-comment-block-article-index'>
+<div class='article-head'>
+<div class='article-header-avatar'>
+<img src="//pic.qiushibaike.com/system/avtnew/4115/41158942/thumb/20190403182402.jpg" alt="是凉岐哥哥呐">
+</div>
+
+<a href="/users/41158942/" class='article-header-name'>是凉岐哥哥呐</a>
+
+</div>
+<ul class='article-main'>
+<li class='article-main-right'>
+<a href="/article/121864984" class='article-main-right-text'>
+给女孩子的一个建议,女孩子一定要主动,如果你是一味的等着男孩子来找你，那你等来的大部分是渣男,因为像我们这种正派的男孩子根本不懂得泡妞。
+</a>
+</li>
+
+</ul>
+<div class='article-main-right-foot'>
+2164 好笑 &sdot;
+87 评论 &sdot;
+<a href="/history/552a14e1eb02c18bc86bbf1663f971ba/" >
+2019-05-30
+</a>
+</div>
+</li>
+</ul>
+</li>
+
+
+
+
+
+<li class='user-block user-block-border'>
+<div class='user-block-header'>
+<h3 class='comment'>
+<span class='date'>05&#47;30</span>
+<strong class='name'>是凉岐哥哥呐</strong>
+<span class='text'>评论了</span>
+
+
+<a href="/users/41158942/" >
+<strong class='name'>是凉岐哥哥呐</strong>
+</a>
+
+
+</h3>
+</div>
+<ul class='user-comment-block'>
+<li class='user-comment-block-comment'>啊呸！看你的头像，我就知道你不是正经人！居然还学会欺骗了！

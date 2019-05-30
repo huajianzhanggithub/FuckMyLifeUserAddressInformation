@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FuckMyLifeUserAddressInformation", "FuckMyLifeUserAddressInformation\FuckMyLifeUserAddressInformation.pyproj", "{33F97326-4A4B-4B04-8AC3-9367D830B9CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33F97326-4A4B-4B04-8AC3-9367D830B9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F97326-4A4B-4B04-8AC3-9367D830B9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CBE32FD-F4D5-4278-84F4-8A95A98E1E67}
+	EndGlobalSection
+EndGlobal
